@@ -1,0 +1,2 @@
+# LMP
+Influence maximization problem
